@@ -6,7 +6,7 @@
 
 This application is a CMS-style blog that features blogs on the home page that features blogs posted on the site by its users. Users can post, edit, delete, and comment on in order to share useful information about technology with one another. 
 
-* [GitHub Repository](https://github.com/cikennedy/project-2)
+* [GitHub Repository](https://github.com/Thomas-NW/Project_2_Lost_Found_Animal.git)
 
 * [Deployed Application](https://findmymissingpet.herokuapp.com/dashboard)
 
